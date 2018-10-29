@@ -3,4 +3,5 @@
   <body> Likes </body>
   <p> hamburgers, beach, football, video games, and movies </p>
   <body> Dislikes </body>
-  <p> mosquitos, bananas, ghosts, and 
+  <p> mosquitos, spiders, bananas, ghosts </p>
+</html>
